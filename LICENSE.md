@@ -1,0 +1,16 @@
+Copyright (c) 2026 OlympStack - Alexander Stusse. All rights reserved.
+
+This repository contains binary releases and related documentation for
+OlympCron Manager.
+
+The software is proprietary and is licensed to end users under the
+OlympCron Manager End User License Agreement (EULA).
+
+No rights to the source code are granted through this repository.
+
+Use of the software is subject to the applicable license terms and
+conditions available at:
+
+https://github.com/OlympProject/olympcron-manager-release/blob/main/EULA.md
+and
+https://olympstack.com/olympcron-manager/eula
