@@ -2,6 +2,14 @@
 
 **Visually manage Linux cron jobs over SSH. Build expressions, deploy changes, and apply templates from a native desktop app.**
 
+[![Latest Release](https://img.shields.io/github/v/release/OlympProject/olympcron-manager-release?display_name=release&style=for-the-badge&logo=github)](https://github.com/OlympProject/olympcron-manager-release/releases/latest)
+[![Releases](https://img.shields.io/badge/Releases-All%20versions-1f6feb?style=for-the-badge&logo=github)](https://github.com/OlympProject/olympcron-manager-release/releases)
+[![Download Latest](https://img.shields.io/badge/Download-Latest%20Release-2ea043?style=for-the-badge&logo=github)](https://github.com/OlympProject/olympcron-manager-release/releases/latest)
+[![Website](https://img.shields.io/badge/Website-olympstack.com%2Folympcron-0a66c2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://olympstack.com/olympcron-manager)
+
+[![User Manual](https://img.shields.io/badge/User%20Manual-Read-cd7f32?style=for-the-badge&logo=readme&logoColor=white)](USERMANUAL.md)
+[![EULA](https://img.shields.io/badge/EULA-View-8250df?style=for-the-badge&logo=github)](EULA.md)
+
 OlympCron Manager is a free desktop application for Linux server administration. It connects to servers over SSH, loads and edits the remote crontab, provides a visual expression builder, and ships with ready-to-use templates for common automation tasks.
 
 Website: https://olympstack.com  
